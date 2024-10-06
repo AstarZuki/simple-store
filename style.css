@@ -1,0 +1,25 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+button{
+    font-size: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 5px 15px;
+    background-color: hsl(195, 100%, 80%);
+    color: hsl(0, 0%, 8%);
+}
+.box{
+    width: 400px;
+    padding: 10px;
+    margin: 50px auto;
+    text-align: center;
+    border: 5px solid #ddd;
+    border-radius: 15px ;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.966);
+}
+.img{
+    border-radius: 30px;
+    
+}
